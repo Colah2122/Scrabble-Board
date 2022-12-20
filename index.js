@@ -17,163 +17,163 @@ data["A"] = {
     "letter": "A", 
     "value": 1, 
     "amount": 9, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_A.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_A.jpg'>" 
 }
 data["B"] = { 
     "letter": "B", 
     "value": 3, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_B.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_B.jpg'>" 
 }
 data["C"] = { 
     "letter": "C", 
     "value": 3, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_C.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_C.jpg'>" 
 }
 data["D"] = { 
     "letter": "D", 
     "value": 2, 
     "amount": 4, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_D.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_D.jpg'>" 
 }
 data["E"] = { 
     "letter": "E", 
     "value": 1, 
     "amount": 12, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_E.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_E.jpg'>" 
 }
 data["F"] = { 
     "letter": "F", 
     "value": 4, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_F.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_F.jpg'>" 
 }
 data["G"] = { 
     "letter": "G", 
     "value": 2, 
     "amount": 3, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_G.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_G.jpg'>" 
 }
 data["H"] = { 
     "letter": "H", 
     "value": 4, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_H.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_H.jpg'>" 
 }
 data["I"] = { 
     "letter": "I", 
     "value": 1, 
     "amount": 9, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_I.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_I.jpg'>" 
 }
 data["J"] = { 
     "letter": "J", 
     "value": 8, 
     "amount": 1, "img": 
-    "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_J.jpg'>" 
+    "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_J.jpg'>" 
 }
 data["K"] = { 
     "letter": "K", 
     "value": 5, 
     "amount": 1, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_K.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_K.jpg'>" 
 }
 data["L"] = { 
     "letter": "L", 
     "value": 1, 
     "amount": 4, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_L.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_L.jpg'>" 
 }
 data["M"] = { 
     "letter": "M", 
     "value": 3, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_M.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_M.jpg'>" 
 }
 data["N"] = { 
     "letter": "N", 
     "value": 1, 
     "amount": 6, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_N.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_N.jpg'>" 
 }
 data["O"] = { 
     "letter": "O", 
     "value": 1, 
     "amount": 8, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_O.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_O.jpg'>" 
 }
 data["P"] = { 
     "letter": "P", 
     "value": 3, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_P.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_P.jpg'>" 
 }
 data["Q"] = { 
     "letter": "Q", 
     "value": 10, 
     "amount": 1, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_Q.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_Q.jpg'>" 
 }
 data["R"] = { 
     "letter": "R", 
     "value": 1, 
     "amount": 6, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_R.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_R.jpg'>" 
 }
 data["S"] = { 
     "letter": "S", 
     "value": 1, 
     "amount": 4, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_S.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_S.jpg'>" 
 }
 data["T"] = { 
     "letter": "T", 
     "value": 1, 
     "amount": 6, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_T.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_T.jpg'>" 
 }
 data["U"] = { 
     "letter": "U", 
     "value": 1, 
     "amount": 4, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_U.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_U.jpg'>" 
 }
 data["V"] = { 
     "letter": "V", 
     "value": 4, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_V.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_V.jpg'>" 
 }
 data["W"] = { 
     "letter": "W", 
     "value": 4, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_W.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_W.jpg'>" 
 }
 data["X"] = { 
     "letter": "X", 
     "value": 8, 
     "amount": 1, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_X.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_X.jpg'>" 
 }
 data["Y"] = { 
     "letter": "Y", 
     "value": 4, 
     "amount": 2, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_Y.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_Y.jpg'>" 
 }
 data["Z"] = { 
     "letter": "Z", 
     "value": 10, 
     "amount": 1, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_Z.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_Z.jpg'>" 
 }
 data["_"] = { 
     "letter": "_", 
     "value": 0, 
     "amount": 1, 
-    "img": "<img src='./pictures/Scrabble_Tiles/Scrabble_Tile_Blank.jpg'>" 
+    "img": "<img src='pictures/Scrabble_Tiles/Scrabble_Tile_Blank.jpg'>" 
 }
 
 /* Making copy of data structure to maintain original values and declaring scrabble values variables*/

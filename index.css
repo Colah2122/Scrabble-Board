@@ -1,0 +1,69 @@
+/*
+    File: index.css
+    Author: Chris Olah
+    Github Username: Colah2122
+    Contact Information: colah2123@outlook.com
+    Information: Implementing a bit of the game of Scrabble using 
+        drag-and-drop. The display is a one line Scrabble board for
+        the user to place seven letter tiles on a tile rack to 
+        create a word and increase store. This is all done through 
+        jQuery UI. This file contains the css styling for the scrabble 
+        board and page elements
+*/
+
+/* CSS styling for board and centering it */
+#board{
+    background-color: rgba(255, 255, 137, 0.89);
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    border-width: thick;
+}
+/* styling for list within board */
+#board li{
+    list-style: none;
+    display: inline-block;
+}
+/* styling for header message */
+#board h1 {
+    font-weight: bold;
+    padding-top: 5%;
+}
+/* styling for instructions */
+#board p {
+    font-weight: bold;
+}
+/* implementing wood picture to make board more realistic */
+#rack{
+    background-image:url("pictures/woodboard.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-width: 700px;
+    min-height: 100px;
+    margin: auto;
+    text-align: center;
+    border-top: solid;
+    border-width: thick;
+    padding-top: 1%;
+    margin-top: 5%;
+
+}
+/* styling for blocks on rack */
+#rack img{
+    width: 60px;
+    height: 60px;
+    padding: 5%;
+}
+/* styling for buttons */
+button {
+    border: double;
+    font-weight: bold;
+}
+/* image for blank board */
+.emptyBoard{
+    content:url("./pictures/blank_board.PNG");
+}
+/* image for double letter score */
+.doubleLetter{
+    content:url("./pictures/double_letterboard.PNG");
+}

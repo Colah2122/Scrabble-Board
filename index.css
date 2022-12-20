@@ -61,9 +61,9 @@ button {
 }
 /* image for blank board */
 .emptyBoard{
-    content:url("blank_board.png");
+    content:url("pictures/blank_board.jpg");
 }
 /* image for double letter score */
 .doubleLetter{
-    content:url("double_letterboard.png");
+    content:url("pictures/double_letterboard.png");
 }
